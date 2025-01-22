@@ -1,3 +1,0 @@
-[build]
-  publish = "public"             # Path to the static files
-  functions = "netlify/functions" # Path to serverless functions
