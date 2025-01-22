@@ -1,0 +1,4 @@
+[build]
+  base = "NarraLoom"          # Specifies that the build files are in the NarraLoom folder
+  publish = "public"          # Points to the public directory within NarraLoom
+  functions = "netlify/functions"  # Points to the functions folder
